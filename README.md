@@ -1,4 +1,4 @@
-# Javascript Utility Functions <!-- omit from toc -->
+# Eve Online Star Map <!-- omit from toc -->
 
 ---
 
